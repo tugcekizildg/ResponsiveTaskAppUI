@@ -27,5 +27,5 @@ https://whimsical-alpaca-8037ff.netlify.app
 
 ## Preview
 
-![PinUp Screenshot](.ResponsiveTaskAppUI/DesktopDesign.png)
-![PinUp Screenshot](.ResponsiveTaskAppUI/MobileDesign.png)
+![PinUp Screenshot](./ResponsiveTaskAppUI/tree/main/ResponsiveTaskAppLandingPage/DesktopDesign.png)
+![PinUp Screenshot](./ResponsiveTaskAppUI/tree/main/ResponsiveTaskAppLandingPage/MobileDesign.png)
