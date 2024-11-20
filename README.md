@@ -26,6 +26,6 @@ Here’s the live preview of your PinUp app UI:
 https://whimsical-alpaca-8037ff.netlify.app
 
 ## Preview
+![DesktopDesign](https://github.com/user-attachments/assets/c34809b2-d8bd-4722-9e56-80e6dd8cae6b)
+![MobileDesign](https://github.com/user-attachments/assets/447881c1-b7bd-4de6-9135-2e2269c02a30)
 
-![PinUp Screenshot](./ResponsiveTaskAppUI/tree/main/ResponsiveTaskAppLandingPage/DesktopDesign.png)
-![PinUp Screenshot](./ResponsiveTaskAppUI/tree/main/ResponsiveTaskAppLandingPage/MobileDesign.png)
